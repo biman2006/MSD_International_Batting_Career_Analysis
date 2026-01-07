@@ -17,9 +17,7 @@ Python
 
 Pandas
 
-Jupyter Notebook
-
-PyMySQL / MySQL Connector
+PyMySQL
 
 ## 📂 Dataset
 
